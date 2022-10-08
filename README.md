@@ -2,89 +2,17 @@
 
 <!--CV Download button-->
 
- ## Hi there 👋, I, Mohammad Sabbir Ahmed, a software engineer working in Dhaka, Bangladesh
+ ## Hi there 👋, I, Mohammad Sabbir Ahmed, working in Dhaka, Bangladesh
 
 
-<!-- Profile View Counter -->
-<a href="#" align="left">
-  <img src="https://gpvc.arturio.dev/Mohammad-Sabbir-Ahmed" alt="Number Profile Visitor's" height=28>
-</a>
 
-<!-- CV Download Button-->
-<a href="https://github.com/msahmedme/msahmedme/raw/main/data/Mohammad%20Sabbir%20Ahmed's%20Resume.pdf">
-  <img src="https://img.shields.io/badge/Download-MyCV-Green" alt="Download My CV Badge" height=28 align="right">
- </a>
-</div>
 
 <div align="left"> 
  <!--Add virtual judge badges-->
 </div>
   
-**Mohammad-Sabbir-Ahmed/Mohammad-Sabbir-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <!--Tutorial: https://www.sitepoint.com/github-profile-readme/-->
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--Giphy Animation-->
-<div id="header" align="center" > 
-  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" height=auto width=100%/>
-</div>
-
-
-<details>
-     
-  <summary>:zap: Most Used Languages</summary>
-  <br />
-  <img  alt="Top Languages used by Mohammad Sabbir Ahmed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sabbir-Ahmed&theme=radical" />
-
-</details>
-
-
-
-<!--Social Links-->
-### Connect with me
-
-<div id="badges">
-
-  <a href="https://www.linkedin.com/in/msahmedme/">
-    <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height=28>
-  </a>
-  
-  <a href="mailto:smsabbirahmedse.me@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge" height=28>
-  </a>
-  
-  <a href="https://www.facebook.com/msabbirahmedse/">
-    <img src="https://shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge" height=28>
-  </a>
-  
-  <a href="https://medium.com/@msahmedme">
-    <img src="https://shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge" height=28>
-  </a>
-  
-  <a href="https://twitter.com/msabbirahmedme">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=28>
-  </a>
-
-
- 
-<!-- Github activitiy graph -->
- <!-- ## My activity graph! -->
- <br><br>
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sabbir-Ahmed&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
- 
- </div>
+![Metrics](https://metrics.lecoq.io/Mohammad-Sabbir-Ahmed?template=classic&isocalendar=1&languages=1&people=1&calendar=1&achievements=1&introduction=1&leetcode=1&code=1&notable=1&activity=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&leetcode=false&leetcode.user=._Black_Panther_.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FDhaka)
